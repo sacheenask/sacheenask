@@ -8,7 +8,7 @@ agent any
       steps {
       echo "Hello Team...."
       echo "ALL IS WELL ...."
-      echo "Work is worship...."
+      echo "Testing In Progress...."
       }
     }
     
