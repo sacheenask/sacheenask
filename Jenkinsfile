@@ -7,7 +7,7 @@ agent any
     {
       steps {
       echo "Hello Team"
-      echo "ALL IS WELL"
+      echo "ALL IS WELL ...."
       }
     }
     
