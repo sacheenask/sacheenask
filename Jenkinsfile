@@ -6,7 +6,7 @@ agent any
     stage("Hello World")
     {
       steps {
-      echo "Hello World"
+      echo "Hello Team"
       echo "ALL IS WELL"
       }
     }
